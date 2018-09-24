@@ -6,5 +6,5 @@ In order to use this you must have the IO Shield inserted into the Mojo FPGA. Be
 To use this as a library download the `ioshield_seven_segment_controller.luc` file and add it to your project. To see the demo create a new project and add `ioshield_seven_segment_controller.luc` and `mojo_top.luc` to the project, overwriting the previous `mojo_top.luc` file.
 
 This project was designed for FPGA dev boards created by Embedded Micro:
-https://alchitry.com/products/mojo-v3
-https://alchitry.com/products/io-shield
+- https://alchitry.com/products/mojo-v3
+- https://alchitry.com/products/io-shield
